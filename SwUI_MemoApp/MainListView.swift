@@ -12,12 +12,12 @@ struct MainListView: View {
     @EnvironmentObject var store: MemoStore
     
     var body: some View {
-        
-        List(store.list) { memo in
-            Text(memo.content)
+        NavigationView {
+            List(store.list) { memo in
+                Text(memo.content)
+            }
+            .navigationTitle("나의 메모")
         }
-        .navigationTitle("나의 메모")
-        
     }
 }
 
