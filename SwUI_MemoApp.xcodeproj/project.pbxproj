@@ -19,14 +19,14 @@
 
 /* Begin PBXFileReference section */
 		BDE594882BAA8C8F00D2836D /* SwUI_MemoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwUI_MemoApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		BDE5948B2BAA8C8F00D2836D /* SwUI_MemoAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwUI_MemoAppApp.swift; sourceTree = "<group>"; };
+		BDE5948B2BAA8C8F00D2836D /* SwUI_MemoAppApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = SwUI_MemoAppApp.swift; sourceTree = "<group>"; };
 		BDE5948F2BAA8C9000D2836D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BDE594922BAA8C9000D2836D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		BDE594942BAA8C9000D2836D /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
+		BDE594942BAA8C9000D2836D /* Persistence.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = Persistence.swift; sourceTree = "<group>"; };
 		BDE594972BAA8C9000D2836D /* SwUI_MemoApp.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = SwUI_MemoApp.xcdatamodel; sourceTree = "<group>"; };
-		BDE5949E2BAA8E3200D2836D /* MainListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainListView.swift; sourceTree = "<group>"; };
-		BDE594A22BAA8F2100D2836D /* Memo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Memo.swift; sourceTree = "<group>"; };
-		BDE594A42BAA900A00D2836D /* MemoStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoStore.swift; sourceTree = "<group>"; };
+		BDE5949E2BAA8E3200D2836D /* MainListView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = MainListView.swift; sourceTree = "<group>"; };
+		BDE594A22BAA8F2100D2836D /* Memo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = Memo.swift; sourceTree = "<group>"; };
+		BDE594A42BAA900A00D2836D /* MemoStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; lineEnding = 0; path = MemoStore.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
