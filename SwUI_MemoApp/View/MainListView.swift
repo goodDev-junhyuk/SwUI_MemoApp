@@ -17,7 +17,7 @@ struct MainListView: View {
     var body: some View {
         NavigationView {
             List(store.list) { memo in
-                
+                // 네비게이션바 링크 설정
                 NavigationLink{
                     
                     DetailView(memo: memo)
@@ -28,6 +28,7 @@ struct MainListView: View {
             }
             .listStyle(.plain)
             .navigationTitle("나의 메모")
+            // 우측 상단 메모추가 기능
             .toolbar {
                 Button {
                     showComposer = true
